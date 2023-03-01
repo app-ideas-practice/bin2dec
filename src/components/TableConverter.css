@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table{
+    border: 2px solid black;
+    width: 50vw;
+    margin: 0 auto;
+    padding: 32px;
+}
+
+.error{
+    color: rgba(216, 24, 24, 0.7);
+    margin-bottom: 8px;
+    font-weight: 600
+}
+
+.decimal{
+    pointer-events: none;
+}
+
+input{
+    outline: none;
+}
+
